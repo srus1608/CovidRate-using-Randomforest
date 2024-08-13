@@ -31,7 +31,8 @@ The requirements.txt file should include:
 
  ## Clone the repository:
 
-git clone https://github.com/yourusername/covid-detection-random-forest.git
+git clonegithub.com/srus1608/CovidRate-using-Randomforest.git
+cd 
 Place the dataset in the data/ directory.
 
 Open the Jupyter Notebook:
